@@ -1,0 +1,5 @@
+numpy
+pdf2image
+pillow
+opencv-python
+docopt
