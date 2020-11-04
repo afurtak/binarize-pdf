@@ -3,3 +3,5 @@ pdf2image
 pillow
 opencv-python
 docopt
+flask
+gunicorn
